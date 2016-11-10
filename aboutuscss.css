@@ -1,0 +1,130 @@
+section{
+    font-family:Verdana, Helvetica, sans-serif;
+}
+
+li{
+  display:inline;
+}
+
+header{
+  margin-bottom:2px;
+  opacity: 0.95;
+  background-color: #98AFC7;
+}
+#logo{
+  width:30vw;
+  height:20vh;
+  margin-left:34vw;
+}
+
+  
+nav{
+  border-style: solid;
+  border-width: medium;
+  opacity: 0.95;
+  width: initial;
+}
+
+ul.mainmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #98AFC7;
+    opacity: 0.95;
+}
+
+li {
+    float: left;
+}
+
+a:hover{
+  transform:scale(1.1,1.1);
+  transition-duration:0.5s;
+}
+
+
+li.menu a{
+    display: block;
+    color: #5C246E;
+  font-family:Verdana, Helvetica, sans-serif; 
+    text-align: center;
+    padding: 14px 6.47vw;
+    text-decoration: none;
+  
+}
+
+li.menu a:hover {
+    background-color: #5C246E;
+    color: white;
+
+}
+
+.active{
+  background-color: black;
+}
+* {box-sizing:border-box}
+
+footer{
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:white;
+  padding:2px;
+  margin-bottom:10px;
+  overflow:hidden;
+  border-color:black;
+  width:initial;
+  height:20vh;
+  bottom:2vh;
+  clear:left;
+  opacity: 0.95;
+  clear:right;
+}
+
+ul.sponsors {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.sponsor{
+  padding: 14px 3vw;
+  width:24vw;
+  height:19vh;
+}
+
+.sponsor:hover{
+  transform:scale(1.1,1.1);
+  transition-duration:0.5s;
+}
+
+body{ 
+  background-image: url('pics/background.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: Verdana,sans-serif;margin:0
+}
+.about{
+  border-style: solid;
+  border-width: medium;
+  opacity: 0.95;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  width: 1665px;
+  height: 800px;
+}
+
+.heading{
+  text-align: center;
+}
+
+.content{
+  text-align: center;
+}

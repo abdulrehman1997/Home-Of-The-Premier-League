@@ -1,0 +1,376 @@
+section{
+    font-family:Verdana, Helvetica, sans-serif;
+}
+
+li{
+  display:inline;
+}
+
+header{
+  margin-bottom:2px;
+  opacity: 0.95;
+  background-color: #98AFC7;
+}
+#logo{
+  width:30vw;
+  height:20vh;
+  margin-left:34vw;
+}
+
+  
+nav{
+  border-style: solid;
+  border-width: medium;
+  opacity: 0.9;
+  width: initial;
+}
+
+ul.mainmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #98AFC7;
+    opacity: 0.9;
+}
+
+li {
+    float: left;
+}
+
+a:hover{
+  transform:scale(1.1,1.1);
+  transition-duration:0.5s;
+}
+
+
+li.menu a{
+    display: block;
+    color: #5C246E;
+  font-family:Verdana, Helvetica, sans-serif; 
+    text-align: center;
+    padding: 14px 6.47vw;
+    text-decoration: none;
+  
+}
+
+li.menu a:hover {
+    background-color: #5C246E;
+    color: white;
+
+}
+
+.active{
+  background-color: black;
+}
+* {box-sizing:border-box}
+
+body{ 
+  background-position: fixed;
+  background-image: url('pics/background.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: Verdana,sans-serif;margin:0
+}
+
+  .first_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+}
+
+.second_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+}
+
+.third_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+}
+
+.fourth_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+
+.fifth_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.sixth_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.seventh_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.eighth_div{
+    
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.ninth_div{
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.tenth_div{
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.eleventh_div{
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.twelfth_div{
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+
+.thirteenth_div{
+  border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+    width: 1665px;
+    height: 100px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.div_news1{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news2{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news3{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news4{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news5{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news6{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news7{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news8{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news9{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+.div_news10{
+    border-style: solid;
+  border-width: medium;
+  background-color: #98AFC7;
+  color:black;
+  overflow:hidden;
+  border-color:none;
+  padding:2px;
+  margin: auto;
+  opacity: 0.95;
+}
+
+h1 a{
+  display: block;
+    color: #5C246E;
+  font-family:Verdana, Helvetica, sans-serif; 
+    text-align: center;
+    padding: 14px 6.47vw;
+    text-decoration: none;
+}
+h1 a:hover{
+  background-color: #5C246E;
+    color: white;
+}

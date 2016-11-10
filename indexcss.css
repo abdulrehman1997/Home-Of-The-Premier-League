@@ -1,0 +1,78 @@
+#logo{
+    width:30vw;
+    height:20vh;
+    position: absolute;
+}
+
+
+.v{
+    position: absolute;
+    left:0%;
+    top:0%;
+    height: auto;
+    max-width: 60%;
+    align-items:center;
+}
+.loginform{
+	position:absolute;
+	right:3%;
+	top:5%;
+    border: 1px;
+    border-color: #2E0854;
+    opacity:0.95;
+}
+.signupform{
+	position: absolute;
+	left:5%;
+	top:38%;
+}
+nav ul li a{
+    color: green;
+    font-family: arial;
+    font-size: 16px; 
+}
+
+nav ul li{
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+}
+nav ul{
+    float: right;
+    margin-right: 60px;
+}
+nav ul form input{
+    margin-left: 20px;
+}
+nav ul form button{
+    margin-left: 20px;
+}
+form{
+    padding: 20px;
+    background-color: #98AFC7;
+    border-style: solid;
+    opacity: .8;
+    border-color: black;
+    border-size:50px;
+
+}
+form input{
+    background-color: white;
+    border-color: black;
+    height: 30px;
+    width:200px;
+    opacity: .8;
+
+}
+input::-webkit-input-placeholder {
+color: #737CA1;
+}
+button{
+    background-color: white;
+    color: 660198;
+    border: 3px;
+    border-color: #9B30FF;
+    height: 30px;
+    width:100px;
+
+}
